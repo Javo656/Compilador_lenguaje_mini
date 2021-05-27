@@ -1,0 +1,12 @@
+char* generar_temporal();
+void reservar_variable(char*);
+void carga();
+void salida();
+char* suma(char*, char*);
+char* resta(char*, char*);
+char* multi(char*, char*);
+char* divi(char*, char*);
+char* negar(char*);
+void guardar(char*, char*);
+void leer(char*);
+void escribir(char*);

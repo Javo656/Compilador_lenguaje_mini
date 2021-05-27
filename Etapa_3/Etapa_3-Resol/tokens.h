@@ -1,0 +1,12 @@
+enum token{
+    FDT,
+    PROGRAMA,
+    FINPROG,
+    DECLARAR,
+    LEER,
+    ESCRIBIR,
+    ASIGNACION,
+    CONSTANTE,
+    IDENTIFICADOR
+};
+
